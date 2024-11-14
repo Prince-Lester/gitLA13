@@ -2,8 +2,6 @@
 This is our first GitHub 
 activity.
 Members names:
-Name1 (leader)
-Name2
-Name3
-Name4
-Name5
+Capones, Lseter P. (leader)
+Bucani, Mark Larry R.
+Calipayan, Jose Jennie A.
